@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+/* Contact Component */
+
+.table-celebs {
+  width: 25%;
+}
+
+.Actor-Image img {
+  width: 50%;
+}
